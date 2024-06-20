@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-treasurehunt-dev-c3021-authRole",
+      "UnauthRoleArn": "arn:aws:iam::439757131585:role/amplify-treasurehunt-dev-c3021-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::439757131585:role/amplify-treasurehunt-dev-c3021-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-treasurehunt-dev-c3021-deployment",
+      "UnauthRoleName": "amplify-treasurehunt-dev-c3021-unauthRole",
+      "StackName": "amplify-treasurehunt-dev-c3021",
+      "StackId": "arn:aws:cloudformation:us-east-1:439757131585:stack/amplify-treasurehunt-dev-c3021/856549e0-2e94-11ef-91eb-0affe1bd211d",
+      "AmplifyAppId": "drqrizcplmu86"
+    },
+    "categories": {
+      "auth": {
+        "treasurehuntdae350df": {}
+      }
+    }
+  }
+}
